@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Alan Li
 tagline: Main page
 description: A personal webpage for Alan Li.
