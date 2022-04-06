@@ -1,8 +1,8 @@
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-minimal
 exclude: ["README.md"]
 
-title : Alan Li
+title : Adithya Chari
 show_downloads: false
 author : 
-  name : Alan Li
-  email : ahl88@cornell.edu
+  name : Adithya Chari
+  email : adithya.chari@gmail.com
