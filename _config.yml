@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+exclude: ["README.md"]
+
+title : Alan Li
+show_downloads: false
+author : 
+  name : Alan Li
+  email : ahl88@cornell.edu
