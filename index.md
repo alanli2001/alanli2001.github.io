@@ -6,18 +6,17 @@ description: A personal webpage for Alan Li.
 ---
 
 ## About Me
-I am currently a BS/MEng student athlete studying computer science at **Cornell University**, graduating in May 2023. My personal interests include game theory, machine learning, and market making.
+I am currently a BS/MEng student athlete studying computer science at **Cornell University**, graduating in May 2023. My personal interests include game theory, machine learning, and quantitative trading.
 
 I'm currently an incoming quantitative trading intern at **Cutler Group, LP**, and I previously interned at **FINRA** on the Alfresco Content Services Team.
 
 ## Work Experience
 **Quantitative Trading @ Cutler Group, LP - 2022:**
-- I'll be joining Cutler Group in July 2022, learning about options market making.
+- I'll be joining Cutler Group in July 2022 to learn about options market making.
 
 **Software Engineering @ Financial Industry Regulatory Authority (FINRA) - 2021:**
 - I developed software for the Alfresco Content Services team, which helps store and manage over 30 billion financial documents for FINRA analysts to use while regulating the market.
-- My main role was to rewrite automation tests with Typescript, Selenium, and Cucumber. 
-- In doing so, it allowed my team to migrate to a newer version of the Alfresco Application Development Framework.
+- My main role was to rewrite automation tests with Typescript, Selenium, and Cucumber, which allowed my team to migrate to an updated version of the Alfresco Application Development Framework.
 - I also wrote new JUnit tests in Java for their backend, increasing test coverage by more than 10%.
 
 ## Projects
@@ -51,5 +50,7 @@ I'm currently an incoming quantitative trading intern at **Cutler Group, LP**, a
 - Quantitative Trading
 - Swimming
 - Poker
+- Chess
+- Lisko
 - Valorant
 - Olympic Weightlifting
