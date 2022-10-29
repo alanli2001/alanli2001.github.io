@@ -6,13 +6,16 @@ description: A personal webpage for Alan Li.
 ---
 
 ## About Me
-I am currently a BS/MEng student athlete studying computer science at **Cornell University**, graduating in May 2023. My personal interests include game theory, machine learning, and quantitative trading.
+I am currently an undergraduate student studying computer science at **Cornell University**, graduating in May 2023. My personal interests include game theory, machine learning, and quantitative trading.
 
-I'm currently an incoming quantitative trading intern at **Cutler Group, LP**, and I previously interned at **FINRA** on the Alfresco Content Services Team.
+I will be interning at Datadog as a software engineering intern this spring semester, and will be headed to IMC Trading in the fall as a quantitative trader.
+
+I have previously interned at **Cutler Group** as a quantitative trading intern, and also **FINRA**  as a software engineering intern.
 
 ## Work Experience
-**Quantitative Trading @ Cutler Group, LP - 2022:**
-- I'll be joining Cutler Group in July 2022 to learn about options market making.
+**Quantitative Trading @ Cutler Group - 2022:**
+- I analyzed extremely hard to borrow stocks to see if Merrill Lynch's loan rate is predictive of the terminal stock price through time with pandas, NumPy, statsmodels, and MySQL.
+- I also helped increase profitabillity by analyzed Cutler's trades and developing insights into trade execution and quality.
 
 **Software Engineering @ Financial Industry Regulatory Authority (FINRA) - 2021:**
 - I developed software for the Alfresco Content Services team, which helps store and manage over 30 billion financial documents for FINRA analysts to use while regulating the market.
@@ -34,7 +37,7 @@ I'm currently an incoming quantitative trading intern at **Cutler Group, LP**, a
 
 ## Extracurriculars
 **Men's Swim and Dive**
-- I am a student athlete competing for the Men's Swim and Dive team. I usually spend around 25 hours per week to training and competing as a Division I student athlete.
+- I am a student athlete competing for the Men's Swim and Dive team. I usually dedicate around 25 hours per week to training and competing as a Division I student athlete.
 - I am also a Cornell Athletics Letter Winner, which is awarded to top performing student athletes.
 
 **Poker Association at Cornell**
@@ -43,14 +46,12 @@ I'm currently an incoming quantitative trading intern at **Cutler Group, LP**, a
 **Big Red Leadership Institute**
 - The Big Red Leadership Institute is a biweekly workshop that focuses on improving leadership skills for student athletes.
 
-## Interests
+## Interests/Hobbies
 - Game Theory
-- Data Science and Machine Learning
-- Algorithms
+- Data Science/Machine Learning
 - Quantitative Trading
 - Swimming
 - Poker
 - Chess
-- Lisko
 - Valorant
 - Olympic Weightlifting
