@@ -32,8 +32,8 @@ I have previously interned at **Cutler Group** as a quantitative trading intern,
 - Placed in the top 10% in the 2019 Men's Google Cloud and NCAA Kaggle competition with 0.46 log loss.
 
 ## Extracurriculars
-**Men's Swim and Dive**
-- I am a student athlete competing for the Men's Swim and Dive team. I usually dedicate around 25 hours per week to training and competing as a Division I student athlete.
+**Men's Varsity Swim and Dive Team**
+- I am a student athlete competing for the men's swim and dive team. I usually dedicate around 25 hours per week to training and competing as a Division I student athlete.
 - I am also a Cornell Athletics Letter Winner, which is awarded to top performing student athletes.
 
 **Poker Association at Cornell**
