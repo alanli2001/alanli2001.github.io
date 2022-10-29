@@ -15,7 +15,7 @@ I have previously interned at **Cutler Group** as a quantitative trading intern,
 ## Work Experience
 **Quantitative Trading Intern @ Cutler Group - Summer 2022:**
 - I analyzed extremely hard to borrow stocks to see if Merrill Lynch's loan rate is predictive of the terminal stock price through time with pandas, NumPy, statsmodels, and MySQL.
-- I also helped increase profitabillity by analyzed Cutler's trades and developing insights into trade execution and quality.
+- I also helped increase profitabillity by analyzed trades and developing insights into edge retention and trade quality.
 
 **Software Engineering Intern @ Financial Industry Regulatory Authority (FINRA) - Summer 2021:**
 - I developed software for the Alfresco Content Services team, which helps store and manage over 30 billion financial documents for FINRA analysts to use while regulating the market.
@@ -23,10 +23,6 @@ I have previously interned at **Cutler Group** as a quantitative trading intern,
 - I also wrote new JUnit tests in Java for their backend, increasing test coverage by more than 10%.
 
 ## Projects
-**Covid-19 Hospitalization Prediction:**
-- I developed and trained a neural network regression model to predict number of hospitalizations due to Covid-19 in European countries using PyTorch.
-- This achieved over 85% accuracy in predicting an increase or decrease in the number of Covid-19 cases in European countries by implementing a soft-margin SVM classifier with sklearn.
-
 **Battlecode:**
 - I competed in MIT's 2020 Battlecode competition, which features a turn-based strategy game where robots need to demonstrate a mastery of both resource management and combat tactics.
 - Placed 27th in U.S. tournament, and 45th in scrim rankings out of 550+ teams
@@ -41,7 +37,7 @@ I have previously interned at **Cutler Group** as a quantitative trading intern,
 - I am also a Cornell Athletics Letter Winner, which is awarded to top performing student athletes.
 
 **Poker Association at Cornell**
-- I enjoy learning about poker theory and playing weekly cash and tournament games with other members of the club.
+- I enjoy learning about poker theory and participating in tournaments with other members of the club.
 
 **Big Red Leadership Institute**
 - The Big Red Leadership Institute is a biweekly workshop that focuses on improving leadership skills for student athletes.
