@@ -8,7 +8,7 @@ description: A personal webpage for Alan Li.
 ## About Me
 I am currently an undergraduate student studying computer science at **Cornell University**, graduating in May 2023. My personal interests include game theory, machine learning, and quantitative trading.
 
-I will be interning at **Datadog** as a software engineering intern this spring semester, and will be headed to **IMC Trading** in the fall as a quantitative trader.
+<!-- I will be interning at **Datadog** as a software engineering intern this spring semester, and will be headed to **IMC Trading** in the fall as a quantitative trader. -->
 
 I have previously interned at **Cutler Group** as a quantitative trading intern, and also **FINRA**  as a software engineering intern.
 
