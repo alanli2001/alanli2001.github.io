@@ -8,9 +8,7 @@ import Badges from "components/Badges/Badges";
 import SectionAboutMe from "components/SectionAboutMe/SectionAboutMe";
 import SectionWork from "components/SectionWork/SectionWork";
 import SectionProjects from "components/SectionProjects/SectionProjects";
-// import SectionMoreProjects from "components/SectionMoreProjects/SectionMoreProjects";
 import SectionContact from "components/SectionContact/SectionContact";
-import SectionActivity from "components/SectionActivity/SectionActivity";
 import { sectionOne } from "data";
 const Container = styled.div`
   padding: 0 50px;

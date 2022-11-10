@@ -75,7 +75,6 @@ export type DataType = {
   navBar: NavBar;
   sectionOne: SectionOne;
   social: Social;
-  // email: string;
   sectionAboutMe: SectionAboutMe;
   sectionWork: SectionWork;
   sectionProjects: SectionProjects;
