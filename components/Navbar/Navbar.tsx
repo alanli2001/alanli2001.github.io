@@ -30,8 +30,8 @@ const Container = styled.div<ContainerType>`
     props.navInTop
       ? props.theme.space.navHeight
       : props.theme.space.navHeightScroll};
-  background-color: rgb(255, 255, 255));
-  backdrop-filter: blur(10px);
+  background-color: rgb(255, 255, 255);
+  backdrop-filter: blur(100000px);
   transition: var(--transition);
   @media (max-width: 768px) {
     background-color: rgba(21, 43, 75, 0.65);
