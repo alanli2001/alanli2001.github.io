@@ -26,9 +26,9 @@ const data: DataType = {
   },
   sectionOne: {
     id: "",
-    badge: "Hi, my name is",
+    badge: "Hi! My name is",
     name: "Alan Li",
-    slogan: "Student at Cornell University",
+    slogan: "CS @ Cornell University",
     desc: "",
     button: {
       text: "Resume",
@@ -134,13 +134,13 @@ const data: DataType = {
   sectionContact: {
     show: true,
     id: "contact",
-    badge: "04. What's Next?",
-    title: "Get In Touch",
+    badge: "",
+    title: "Contact Me!",
     description:
-      "You can always contact me at ahl88@cornell.edu",
+      "You can always contact me at ahl88@cornell.edu. Feel free to add me on LinkedIn as well.",
     buttons: [
       {
-        text: "Contact Me",
+        text: "Send Email",
         target: "mailto:ahl88@cornell.edu",
       },
     ],

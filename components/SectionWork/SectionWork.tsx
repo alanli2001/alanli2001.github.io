@@ -153,7 +153,7 @@ const SectionWork = () => {
 
   return (
     <Container id={data.id}>
-      <SectionHeader number={2}>Where I&rsquo;ve Worked</SectionHeader>
+      <SectionHeader number={2}>Work Experience</SectionHeader>
       <ContentContainer>
         <Tabs>
           {data.tabs.map((tab) => {
