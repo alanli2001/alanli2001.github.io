@@ -4,9 +4,6 @@ import "@emotion/react";
 export const theme = {
   color: {
     darkNavy: "#020c1b",
-    /*
-     * #020c1b
-     */
     navy: "#0a192f",
     lightNavy: "#112240",
     lightestNavy: "#233554",

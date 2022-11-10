@@ -18,8 +18,6 @@ const Header = styled.h2<SectionHeaderType>`
   &::before {
     position: relative;
     bottom: 4px;
-    counter-increment: section ${(props) => props.number};
-    content: "0" counter(section) ".";
     margin-right: 10px;
     color: var(--green);
     font-family: var(--font-mono);

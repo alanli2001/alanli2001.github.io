@@ -6,7 +6,7 @@
      --navy: #ffffff;
      --light-navy: #b5b7bc;
      --lightest-navy: #b2b9c4;
-     --navy-shadow: rgba(0, 0, 0, 0.7);
+     --navy-shadow: rgba(255, 255, 255, 0.7);
      --dark-slate: #000000;
      --slate: #000000;
      --light-slate: #000000;
@@ -14,8 +14,6 @@
      --white: #000000;
      --green: #000000;
      --green-tint: rgba(0, 0, 0, 0.1);
-     --pink: #f57dff;
-     --blue: #57cbff;
      --font-sans:  'Radio Canada', sans-serif;
      --font-mono: 'Roboto Mono', monospace;
      --font:  Vazir;
@@ -43,7 +41,6 @@
 
 *, *::before, *::after {
     padding:0;
-    // margin:0;
    box-sizing: border-box;
 }
 body {
