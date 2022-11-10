@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { sectionAboutMe as data } from "data/data";
 import styled from "@emotion/styled";
-// import Image from "next/image";
 import SectionHeader from "components/SectionHeader/SectionHeader";
 import { motion, useAnimation } from "framer-motion";
 import { useIntersect } from "lib/hooks/use-intersect";
@@ -75,38 +74,16 @@ const RightWrapper = styled.div`
   transition: var(--transition);
   display: block;
   position: relative;
-  width: 210px;
-  height: 210px;
+  width: 250px;
+  height: 300px;
   border-radius: var(--border-radius);
-  background-color: var(--green);
   & img {
     position: relative;
     border-radius: var(--border-radius);
-    mix-blend-mode: multiply;
-    filter: grayscale(100%) contrast(1);
     transition: var(--transition);
     width: 100%;
     height: 100%;
     object-fit: cover;
-  }
-  &::before {
-    top: 0px;
-    left: 0px;
-    background-color: var(--navy);
-    mix-blend-mode: screen;
-  }
-  &::after {
-    content: "";
-    display: block;
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    border-radius: var(--border-radius);
-    transition: var(--transition);
-    border: 2px solid var(--green);
-    top: 20px;
-    left: 20px;
-    z-index: -1;
   }
 `;
 

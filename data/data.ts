@@ -48,7 +48,7 @@ const data: DataType = {
     title: "About Me",
     desc: `<p>Hello! I am currently an senior studying computer science at Cornell University, graduating in May 2023. I have previously interned at Cutler Group as a quantitative trading intern, and also at FINRA as a software engineering intern. I am seeking roles in: </p>`,
     list: ["Machine learning", "Quantitative trading", "Data Science", "Software Engineering"],
-    picture: "/me.jpg",
+    picture: "/profile.jpg",
   },
   sectionWork: {
     show: true,
