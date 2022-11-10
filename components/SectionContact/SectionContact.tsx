@@ -1,5 +1,5 @@
 import React from "react";
-import { sectionContact as data, social, Social, email } from "data";
+import { sectionContact as data, social, Social} from "data";
 import styled from "@emotion/styled";
 import Button from "components/Button/Button";
 import {
@@ -131,9 +131,6 @@ const SectionContact = () => {
               );
           })}
         </Socials>
-        <Email href={"mailto:" + email} target="_blank">
-          {email}
-        </Email>
       </InfoContainer>
     </Container>
   );
