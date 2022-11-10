@@ -1,6 +1,6 @@
 import styled from "@emotion/styled";
 import React from "react";
-import { social, email, Social } from "data";
+import { social, Social } from "data";
 import {
   FaGithub,
   FaInstagram,
@@ -96,11 +96,6 @@ const Badges = () => {
             );
         })}
       </Left>
-      <Right>
-        <Email href={"http://mailto" + email} target="_blank">
-          {email}
-        </Email>
-      </Right>
     </Container>
   );
 };

@@ -50,6 +50,7 @@ const data: DataType = {
     list: ["Machine learning", "Quantitative trading", "Data Science", "Software Engineering"],
     picture: "/me.jpg",
   },
+  // email = "",
   sectionWork: {
     show: true,
     title: "Work Experience",
