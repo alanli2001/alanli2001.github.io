@@ -69,9 +69,6 @@ const NavItem = styled.a<NavItemType>`
   font-weight: 500;
   padding: 10px;
   counter-increment: item;
-  &:hover {
-    color: ${({ theme }) => theme.color.black};
-  }
   &::before {
     content: "0" counter(item) ".";
     margin-right: 5px;
