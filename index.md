@@ -11,8 +11,8 @@ I am currently an undergraduate student studying computer science at **Cornell U
 I have previously interned at **Cutler Group** as a quantitative trading intern, and also **FINRA**  as a software engineering intern.
 
 ## Work Experience
-**Software Engineering Intern @ Google - Summer 2023:**
-- Will be working for the Youtube Shorts backend team.
+<!-- **Software Engineering Intern @ Google - Summer 2023:**
+- Will be working for the Youtube Shorts backend team. -->
 
 **Quantitative Trading Intern @ Cutler Group - Summer 2022:**
 - Cutler Group is a options market maker that trades around 1% of the U.S. equity option volume.
