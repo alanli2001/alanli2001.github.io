@@ -6,13 +6,14 @@ description: A personal webpage for Alan Li.
 ---
 
 ## About Me
-I am currently an undergraduate student studying computer science at **Cornell University**, graduating in May 2023. My personal interests include game theory, machine learning, and quantitative trading.
-
-<!-- I will be interning at **Datadog** as a software engineering intern this spring semester, and will be headed to **IMC Trading** in the fall as a quantitative trader. -->
+I am currently an undergraduate student studying computer science at **Cornell University**. My personal interests include game theory, machine learning, and quantitative trading.
 
 I have previously interned at **Cutler Group** as a quantitative trading intern, and also **FINRA**  as a software engineering intern.
 
 ## Work Experience
+**Software Engineering Intern @ Google - Summer 2023:**
+- Will be working for the Youtube Shorts backend team.
+
 **Quantitative Trading Intern @ Cutler Group - Summer 2022:**
 - I analyzed extremely hard to borrow stocks to see if Merrill Lynch's loan rate is predictive of the terminal stock price through time with pandas, NumPy, statsmodels, and MySQL.
 - I also helped increase profitabillity by analyzed trades and developing insights into edge retention and trade quality.
@@ -38,9 +39,6 @@ I have previously interned at **Cutler Group** as a quantitative trading intern,
 
 **Poker Association at Cornell**
 - I enjoy learning about poker theory and participating in tournaments with other members of the club.
-
-**Big Red Leadership Institute**
-- The Big Red Leadership Institute is a biweekly workshop that focuses on improving leadership skills for student athletes.
 
 ## Interests/Hobbies
 - Game Theory
