@@ -15,8 +15,10 @@ I have previously interned at **Cutler Group** as a quantitative trading intern,
 - Will be working for the Youtube Shorts backend team.
 
 **Quantitative Trading Intern @ Cutler Group - Summer 2022:**
+- Cutler Group is a options market maker that trades around 1% of the U.S. equity option volume.
 - I analyzed extremely hard to borrow stocks to see if Merrill Lynch's loan rate is predictive of the terminal stock price through time with pandas, NumPy, statsmodels, and MySQL.
-- I also helped increase profitabillity by analyzed trades and developing insights into edge retention and trade quality.
+- I also helped increase profitabillity by analyzing trades across various factors and developed insights into edge retention and trade quality.
+- Attended daily classes consisting of options theory education and mock trading.
 
 **Software Engineering Intern @ Financial Industry Regulatory Authority (FINRA) - Summer 2021:**
 - I developed software for the Alfresco Content Services team, which helps store and manage over 30 billion financial documents for FINRA analysts to use while regulating the market.
@@ -26,7 +28,7 @@ I have previously interned at **Cutler Group** as a quantitative trading intern,
 ## Projects
 **Battlecode:**
 - I competed in MIT's 2020 Battlecode competition, which features a turn-based strategy game where robots need to demonstrate a mastery of both resource management and combat tactics.
-- Placed 27th in U.S. tournament, and 45th in scrim rankings out of 550+ teams
+- Placed 27th in U.S. tournament, and 45th in scrim rankings out of 550+ teams.
 
 **March Madness Prediction Model:**
 - I constructed a logistic regression model to predict match results in the 2019 March Madness tournament.
@@ -38,11 +40,11 @@ I have previously interned at **Cutler Group** as a quantitative trading intern,
 - I am also a Cornell Athletics Letter Winner, which is awarded to top performing student athletes.
 
 **Poker Association at Cornell**
-- I enjoy learning about poker theory and participating in tournaments with other members of the club.
+- I enjoy learning about poker theory and participating in tournaments and cash games with other members of the club.
 
 ## Interests/Hobbies
 - Game Theory
-- Data Science/Machine Learning
+- Machine Learning
 - Quantitative Trading
 - Swimming
 - Poker
