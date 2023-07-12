@@ -30,13 +30,14 @@ I have previously interned at **Google**, **Cutler Group**, and also the **Finan
 ## Awards
 - Cornell & FTX Trading Competition, 1st Place (Spring 2022)
 - Cornell Athletics Letter Winner
-- 18 & Under World Top 100, 100 Butterfly LCM (2019)
 - Dean's List
+- 18 & Under World Top 100, 100 Butterfly LCM (2019)
 
 ## Interests/Hobbies
 - Game theory
 - Statistics and machine learning
 - Quantitative trading
+- Backend Development
 - Swimming
 - Poker
 - Chess
