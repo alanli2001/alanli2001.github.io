@@ -12,9 +12,10 @@ I have previously interned at **Google**, **Cutler Group**, and also the **Finan
 
 ## Work Experience
 **Software Engineering Intern @ Google - Summer 2023:**
-- I worked for the **Youtube Shorts** backend team, working on improving search suggestions and rankings related to shorts with **C++** and various API's (**Protobuf** messages).
-- My main role was to help improve search suggestions for the Shorts Audio Picker, which is a content creation tool to make Shorts videos. I retrieved data from a user's Shorts Music Profile, which includes information about shorts the user has watched, and fed it into a search suggestion model used by the Shorts Audio Picker.
-- Additionally, I added search indexing for a music classifier for use as a retrieval and ranking signal across various search applications in YouTube and modified a ranking model to work on YouTube Shorts as well, allowing new, trendy songs to appear higher in YouTube Shorts search results.
+- I worked for the **Youtube Shorts Creation Backend** team, working on improving search suggestions and rankings related to shorts using **C++** and various API's (**Protobuf** messages).
+- Created more personalized search suggestions for the Shorts Audio Picker (content creation tool) by feeding data from users' shorts viewing history into its search suggestion model.
+- Added search indexing for a new music classifier better fit for YouTube Shorts for use as a retrieval and ranking signal across various search applications in YouTube.
+- Modified another search suggestion model to work with YouTube Shorts as well, allowing new, trendy songs to appear higher in YouTube Shorts related search results.
 
 **Quantitative Trading Intern @ Cutler Group - Summer 2022:**
 - Cutler Group is a options market maker that trades around 1% of the U.S. equity option volume.
