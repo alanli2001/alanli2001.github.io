@@ -8,7 +8,7 @@ description: A personal webpage for Alan Li.
 ## About Me
 I graduated from **Cornell University** with a bachelors in computer science. My personal interests include software development, game theory, statistics, and finance.
 
-I have previously interned at **Google**, **Cutler Group**, and also the **Financial Industry Regulatory Authority (FINRA)**.
+I have previously worked at **Google**, **Cutler Group**, and also the **Financial Industry Regulatory Authority (FINRA)**.
 
 ## Work Experience
 **Software Engineering Intern @ Google - Summer 2023:**
@@ -18,15 +18,15 @@ I have previously interned at **Google**, **Cutler Group**, and also the **Finan
 - Modified another search suggestion model to work with YouTube Shorts as well, allowing new, trendy songs to appear higher in YouTube Shorts related search results.
 
 **Quantitative Trading Intern @ Cutler Group - Summer 2022:**
-- Cutler Group is a options market maker that trades around 1% of the U.S. equity option volume.
-- I analyzed extremely hard to borrow stocks to see if Merrill Lynch's loan rate is predictive of the terminal stock price through time with **pandas**, **NumPy**, **statsmodels**, and **MySQL**.
-- I also helped increase profitabillity by analyzing trades across various factors and developed insights into edge retention and trade quality.
+- I conducted research for Cutler Group, an options market maker that trades around 1% of the U.S. equity option volume.
+- Analyzed extremely hard to borrow stocks to see if Merrill Lynch's loan rate is predictive of the terminal stock price through time with **pandas**, **NumPy**, **statsmodels**, and **MySQL**.
+- Helped increase profitabillity by analyzing trades across various factors and developed insights into edge retention and trade quality.
 - Attended daily classes consisting of options theory education and mock trading.
 
 **Software Engineering Intern @ Financial Industry Regulatory Authority (FINRA) - Summer 2021:**
 - I developed software for the Alfresco Content Services team, which helps store and manage over 30 billion financial documents for FINRA analysts to use while regulating the market.
-- I rewrote automation tests with **Typescript**, **Selenium**, and **Cucumber**, which allowed my team to migrate to an updated version of the Alfresco Application Development Framework.
-- I also wrote new **JUnit** tests in **Java** for their backend, increasing test coverage by more than **10%**.
+- Rewrote automation tests with **Typescript**, **Selenium**, and **Cucumber**, which allowed my team to migrate to an updated version of the Alfresco Application Development Framework.
+- Wrote new **JUnit** tests in **Java** for their backend, increasing test coverage by more than **10%**.
 
 ## Awards
 - Cornell & FTX Trading Competition, 1st Place (Spring 2022)
@@ -43,4 +43,5 @@ I have previously interned at **Google**, **Cutler Group**, and also the **Finan
 - Poker
 - Chess
 - Valorant
+- Teamfight Tactics
 - Olympic weightlifting
