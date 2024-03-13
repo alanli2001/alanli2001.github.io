@@ -8,7 +8,7 @@ description: A personal webpage for Alan Li.
 ## About Me
 I graduated from **Cornell University** with a bachelors in computer science. My personal interests include software development, game theory, statistics, and finance.
 
-I have previously worked at **Google**, **Cutler Group**, and also the **Financial Industry Regulatory Authority (FINRA)**.
+I have previously worked at **Google**, **Cutler Group**, and also **Financial Industry Regulatory Authority (FINRA)**.
 
 ## Work Experience
 **Software Engineering Intern @ Google - Summer 2023:**
@@ -37,11 +37,9 @@ I have previously worked at **Google**, **Cutler Group**, and also the **Financi
 ## Interests/Hobbies
 - Game theory
 - Statistics and machine learning
-- Quantitative trading
+- Financial markets
 - Backend Development
 - Swimming
-- Poker
-- Chess
+- Poker 
 - Valorant
 - Teamfight Tactics
-- Olympic weightlifting
