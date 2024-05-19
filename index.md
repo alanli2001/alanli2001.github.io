@@ -30,8 +30,8 @@ I have previously worked at **Google**, **Cutler Group**, and also **Financial I
 
 ## Awards
 - Cornell & FTX Trading Competition, 1st Place (Spring 2022)
-- Cornell Athletics Letter Winner
-- Dean's List
+- Cornell Athletics Letter Winner (2020)
+- Dean's List (2020-2022)
 - 18 & Under World Top 100, 100 Butterfly LCM (2019)
 
 ## Interests/Hobbies
