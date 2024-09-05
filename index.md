@@ -20,7 +20,7 @@ I have previously worked at **Google**, **Cutler Group**, and also **Financial I
 **Quantitative Trading Intern @ Cutler Group - Summer 2022:**
 - I conducted research for Cutler Group, an **options market maker** that traded around 1% of the U.S. equity option volume.
 - Analyzed extremely hard to borrow stocks to see if Merrill Lynch's loan rate is predictive of the terminal stock price through time with **pandas**, **NumPy**, **statsmodels**, and **MySQL**.
-- Helped increase profitabillity by analyzing trades across various factors and developed insights into edge retention and trade quality.
+- Helped increase profitability by analyzing trades across various factors and developed insights into edge retention and trade quality.
 - Attended daily classes consisting of options theory education and mock trading.
 
 **Software Engineering Intern @ Financial Industry Regulatory Authority (FINRA) - Summer 2021:**
