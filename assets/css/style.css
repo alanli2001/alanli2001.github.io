@@ -1,0 +1,234 @@
+:root {
+  color-scheme: light;
+  --bg: #faf8f5;
+  --surface: #f4f1ea;
+  --border: #e7e2d8;
+  --text: #1c1917;
+  --muted: #57534e;
+  --faint: #78716c;
+  --accent: #9a3412;
+  --pill-bg: #f2eee6;
+  --pill-text: #57534e;
+
+  --font-sans: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-serif: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: var(--font-sans);
+  font-size: 15px;
+  line-height: 1.65;
+}
+
+.container {
+  max-width: 620px;
+  margin: 0 auto;
+  padding: 48px 24px 72px;
+}
+
+@media (min-width: 640px) {
+  .container {
+    padding: 68px 24px 88px;
+  }
+}
+
+/* Header & Intro */
+.site-header {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.header-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.identity {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.avatar {
+  width: 48px;
+  height: 48px;
+  border-radius: 9999px;
+  object-fit: cover;
+  border: 1px solid var(--border);
+  flex-shrink: 0;
+}
+
+.site-name {
+  margin: 0;
+  font-family: var(--font-serif);
+  font-size: 1.5rem;
+  font-weight: 400;
+  letter-spacing: -0.015em;
+  line-height: 1.2;
+  color: var(--text);
+}
+
+.site-subtitle {
+  margin: 2px 0 0;
+  font-size: 0.75rem;
+  color: var(--faint);
+}
+
+.site-nav {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  font-size: 0.78rem;
+  font-weight: 500;
+}
+
+.site-nav a {
+  color: var(--muted);
+  text-decoration: none;
+  transition: color 140ms ease;
+}
+
+.site-nav a:hover,
+.site-nav a:focus-visible {
+  color: var(--accent);
+}
+
+.intro {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  color: var(--muted);
+  font-size: 0.9375rem;
+  line-height: 1.7;
+  text-wrap: pretty;
+}
+
+.intro p {
+  margin: 0;
+}
+
+.highlight {
+  color: var(--text);
+}
+
+/* Experience */
+.experience-section {
+  margin-top: 36px;
+}
+
+.section-title {
+  margin: 0 0 24px;
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  font-weight: 400;
+  color: var(--faint);
+}
+
+.experience-list {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+.experience-item {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 6px;
+}
+
+@media (min-width: 600px) {
+  .experience-item {
+    grid-template-columns: 96px 1fr;
+    gap: 20px;
+  }
+}
+
+.experience-date {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--faint);
+  padding-top: 2px;
+}
+
+.experience-body {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.experience-role {
+  margin: 0;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: var(--text);
+}
+
+.role-org {
+  font-weight: 500;
+}
+
+.role-sep {
+  color: var(--faint);
+  margin: 0 4px;
+}
+
+.role-title {
+  color: var(--muted);
+  font-size: 0.875rem;
+}
+
+.experience-desc {
+  margin: 0;
+  font-size: 0.84375rem;
+  line-height: 1.625;
+  color: var(--muted);
+  text-wrap: pretty;
+}
+
+/* Skill Chips */
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  padding-top: 2px;
+}
+
+.chip {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 9999px;
+  font-size: 0.6875rem;
+  line-height: 1.45;
+  background-color: var(--pill-bg);
+  color: var(--pill-text);
+  border: 1px solid var(--border);
+}
+
+/* Focus Accessibility */
+a:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 3px;
+}
